@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gaelicgod
-- 👀 I’m interested in python and typescript software development as well as anime
-- 🌱 I’m currently learning more about blockchain work.
-- 💞️ I work for @linumlabs.
-- 📫 How to reach me ... (@gaelicgod on twitter, @branscian on xbox)
+- 👋 Hi, I'm @gaelicgod
+- 👀 Building privacy-preserving settlement infrastructure for institutional and UHNW markets
+- 🌱 Deep in zero-knowledge proof architecture, MASM, and multi-chain systems
+- 💞️ Founder & CTO @luminaengine
+- 📫 @gaelicgod on X
 
 <!---
 gaelicgod/gaelicgod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
